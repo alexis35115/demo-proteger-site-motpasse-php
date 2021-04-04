@@ -10,6 +10,17 @@
 <body>
     <?php 
     include "en-tete.php";
+    ?>
+
+    <div class="centrer centrer-texte">
+
+    <?php
+    echo("Allez voir le répertoire sécurisé!");
+    ?>
+
+    </div>
+
+    <?php
     include "pied-page.php";
     ?>
 </body>
