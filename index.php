@@ -16,6 +16,7 @@
 
     <?php
     echo("Lire les instructions dans le fichier README, au besoin.");
+    echo("</br>");
     echo("Pour déterminer le root du serveur : " . $_SERVER['DOCUMENT_ROOT']);
     ?>
 
