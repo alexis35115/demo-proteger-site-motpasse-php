@@ -15,7 +15,7 @@
     <div class="centrer centrer-texte">
 
     <?php
-    echo("Allez voir le répertoire sécurisé!");
+    echo("Lire les instructions dans le fichier README, au besoin.");
     echo("Pour déterminer le root du serveur : " . $_SERVER['DOCUMENT_ROOT']);
     ?>
 
