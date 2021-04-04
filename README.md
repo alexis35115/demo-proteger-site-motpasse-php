@@ -2,6 +2,10 @@
 
 Démonstration de protéger un site web avec une authentification par mot de passe avec un fichier .htaccess et un fichier .htpasswd
 
+utilisateur : codewithfrenchy
+mot de passe : pewpew
+ligne à insérer : codewithfrenchy:$apr1$s9xhv63k$jSbZ6wgPzxaC7knMq7GoL.
+
 ## Références
 
 - <https://www.pipeten.com/support/scripting/protecting-a-directory-using-htaccess-and-htpasswd/>
