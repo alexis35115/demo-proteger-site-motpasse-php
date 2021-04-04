@@ -1,4 +1,4 @@
-# Démonstration de la protection d'un site web avec un mot de passe
+# Démonstration de la protection de l'accès à un site web avec l'authentification utilisant un utilisateur et un mot de passe
 
 Protéger un site web avec une authentification basique par mot de passe avec un fichier `.htaccess` et un fichier `.htpasswd`.
 
