@@ -16,6 +16,7 @@
 
     <?php
     echo("Allez voir le répertoire sécurisé!");
+    echo("Pour déterminer le root du serveur : " . $_SERVER['DOCUMENT_ROOT']);
     ?>
 
     </div>
